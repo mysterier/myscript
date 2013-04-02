@@ -3,3 +3,11 @@ myscript
 自用各种脚本
 
 1. init.sh ubuntu启动后执行
+
+2. cut_log.sh 按天保存nginx日志
+
+3. nat.sh 防火墙配置参考
+
+4. nginxcgi.sh start|stop|restart nginx 和 spawn-fcgi 脚本
+
+5. sync_bookteller.com.tw.sh 同步台湾站上数据库
