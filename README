@@ -11,3 +11,5 @@ myscript
 4. nginxcgi.sh start|stop|restart nginx 和 spawn-fcgi 脚本
 
 5. sync_bookteller.com.tw.sh 同步台湾站上数据库
+
+6. 增加了apache的配置
