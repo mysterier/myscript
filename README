@@ -13,3 +13,5 @@ myscript
 5. sync_bookteller.com.tw.sh 同步台湾站上数据库
 
 6. 增加了apache的配置
+
+7. php手机、邮件验证以及图片处理
